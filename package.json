@@ -1,0 +1,15 @@
+{
+  "name": "priv-pub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^4.6.0"
+  },
+  "epilog": "This script is distributed with ZERO warranty. Author is not responsible for any damages that might occur."
+}
