@@ -1,6 +1,8 @@
-## Private/Public key encryption
+## Message Cipher
 
-An exploration of node's crypto functions
+An exploration of node's crypto Private/Public key algorithms.
+
+Installing globally provides binary: ```msg-cipher```
 
 ## Install
 ```bash
